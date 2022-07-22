@@ -21,9 +21,12 @@
 | yu йу/йв  |    |    |   | yun  |   |   | yut  |   |
 |    |    |    | m м |   | ng нг/нґ |   |   |   |
 
+Tone numbers:
+- 1, 2, 3, 4, 5, 6, just like in jyutping.
+
 Obvious problems:
 - в(v) vs у(u): Ukrainian в may be more like w as a "final", so while Cantonese only has w/u (and they are the same), in Ukrainian it makes more sense to write в as an ending u.
-- г vs ґ: ґ is still a rare letter but Cantonese also has both h and g. I am not sure if -ng should still be written нґ, when "Hong Kong" is written Гонконг. In fact, ґ doesn't appear in most country/region names esp. if they are fairly old names. But it is safe to say ґ should be the initial g in Cantonese.
+- г vs ґ: ґ is still a rare letter but Cantonese also has both h and g. I am not sure if -ng should still be written нґ, when "Hong Kong" is written Гонконг. In fact, ґ doesn't appear in most country/region names esp. if they are fairly old names. But it is safe to say ґ should be the initial g in Cantonese. х is a possible candidate for h in Cantonese, but Cantonese has no such sound, and I don't see the need of х.
 - Cantonese yu is a single vowel and practically Cantonese has more vowels than Ukrainian. Yu is also difficult to transliterate.
 - я, є, ї may be used for ja, je, ji, but ю is too different from Cantonese yu to be usable.
 - However, if I consider everything together, basically you can have

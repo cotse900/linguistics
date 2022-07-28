@@ -32,7 +32,7 @@ Tone numbers:
 - If we ignore tones for now, generally speaking, most sounds in Cantonese are common and are found in other languages. There are very few voiced consonants in Cantonese despite the spelling. I see the most potential issues are in finals where there are the famous -p, -t, -k syllable endings, as well as the not-very-usual yu sound. I think Cantonese phonology is one of the easiest systems and many other languages have harder sounds.
 - Plosives: none of them is voiced. b is like French p and unaspirated. p is like b but aspirated. The same is true of d/t and g/k.
 - Nasals: there are m, n and ng. Ng (like ng in English *sing*) also starts a syllable and can be a syllable itself, so it may sound unusual.
-- Fricatives: just f, really.
+- Fricatives: the simple f and h.
 - Sibilants and affricates: we have s but no z (like English *z*). Letter z is like ц, and c is aspirated z, so it sounds close to ч.
 - Liquids: only l. Contrary to popular beliefs, Cantonese is possibly a "major" East Asian language that really has no r-sound. Those who know the r-sound mostly know the English one.
 - j and w: j is like German j in *jeder* or English y in *year*. w is English w or u.

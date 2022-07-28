@@ -10,15 +10,15 @@
 
 |   |   |   |  |   |   |   |   |   |
 |----|----|----|---|---|---|---|---|---|
-| aa аа | aai | aau аав | aam | aan | aang | aap | aat | aak |
-| a а(я) | ai | au ав | am | an | ang | ap | at  | ak  |
-| e е(є) | ei | eu ев | em  |  |  eng  | ep  |   | ek  |
-| i і(ї)(й) |   |  iu ів | im | in | ing  | ip  | it  | ik  |
-| o о | oi ой | ou ов |   | on он | ong онг/онґ |   | ot  | ok  |
-| u у | ui уй |    |   | un ун | ung унг/унґ |   |  ut | uk  |
+| aa аа | aai аай | aau аав | aam аам | aan аан | aang аанг | aap аап | aat аат | aak аак |
+| a а(я) | ai ай | au ав | am ам | an ан | ang анг | ap ап | at ат | ak ак |
+| e е | ei ей | eu ев | em ем |  |  eng енг | ep еп |   | ek ек |
+| i і(ї)(й) |   |  iu ів | im ім | in ін | ing інг | ip іп | it іт | ik ік |
+| o о | oi ой | ou ов |   | on он | ong онг/онґ |   | ot от | ok ок |
+| u у | ui уй |    |   | un ун | ung унг/унґ |   |  ut ут | uk ук |
 |    | eoi еой |    |   | eon еон |   |   | eot еот |   |
-| oe ое |    |    |   |   | oeng оенг/оенґ |   | oet  | oek  |
-| yu йу/йв  |    |    |   | yun  |   |   | yut  |   |
+| oe ое |    |    |   |   | oeng оенг/оенґ |   | oet оет | oek оек |
+| yu йу/йв  |    |    |   | yun йун |   |   | yut йут |   |
 |    |    |    | m м |   | ng нг/нґ |   |   |   |
 
 Tone numbers:

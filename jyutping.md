@@ -1,4 +1,7 @@
-## Refer to [jyutping](https://en.wikipedia.org/wiki/Jyutping)
+# Short guide to jyutping
+## [Wikipedia has a whole article on jyutping, and it is accurate](https://en.wikipedia.org/wiki/Jyutping)
+
+[Cantolounge has a whole jyutping chart with sound files.](https://cantolounge.com/jyutping-chart/)
 
 | Jyutping | but | in | Ukrainian | letters |
 |----|----|----|---|---|
@@ -24,11 +27,29 @@
 Tone numbers:
 - 1, 2, 3, 4, 5, 6, just like in jyutping.
 
-Obvious problems:
-- в(v) vs у(u): Ukrainian в may be more like w as a "final", so while Cantonese only has w/u (and they are the same), in Ukrainian it makes more sense to write в as an ending u.
-- г vs ґ: ґ is still a rare letter but Cantonese also has both h and g. I am not sure if -ng should still be written нґ, when "Hong Kong" is written Гонконг. In fact, ґ doesn't appear in most country/region names esp. if they are fairly old names. But it is safe to say ґ should be the initial g in Cantonese. х is a possible candidate for h in Cantonese, but Cantonese has no such sound, and I don't see the need of х.
+## How to pronounce Cantonese in my opinion
+### Consonants
+- If we ignore tones for now, generally speaking, most sounds in Cantonese are common and are found in other languages. There are very few voiced consonants in Cantonese despite the spelling. I see the most potential issues are in finals where there are the famous -p, -t, -k syllable endings, as well as the not-very-usual yu sound. I think Cantonese phonology is one of the easiest systems and many other languages have harder sounds.
+- Plosives: none of them is voiced. b is like French p and unaspirated. p is like b but aspirated. The same is true of d/t and g/k.
+- Nasals: there are m, n and ng. Ng (like ng in English *sing*) also starts a syllable and can be a syllable itself, so it may sound unusual.
+- Fricatives: just f, really.
+- Sibilants and affricates: we have s but no z (like English *z*). Letter z is like ц, and c is aspirated z, so it sounds close to ч.
+- Liquids: only l.
+- j and w: j is like German j in *jeder* or English y in *year*. w is English w or u.
+
+### Vowels
+- Cantonese has... a, e, i, o, u, but also oe (like French oe in *soeur* or German ö in *Löffel*) and yu (like French u in *sur* or German ü in *Bücher*).
+- eo is similar to oe but they appear in different syllables, so people don't usually confuse them.
+- In modern Cantonese varieties I know of, vowel length is irrelevant. People lengthen vowels only for emphasis/humour.
+- There is another vowel called aa because it is more open and longer than a. Since they are distributed in different syllables, people don't usually confuse them.
+- Whenever you see -p, -t, -k at the end of a syllable, it is unaspirated. In English, if you say *but*, *beep* and *buck* casually, you don't pronounce t/p/k so much.
+
+## Obvious problems:
+- в(v): Ukrainian в may be more like w as a "final", so while Cantonese only has w/u (and they are the same), in Ukrainian it makes more sense to write в as an ending u.
+- г vs ґ: ґ is still a rare letter but Cantonese also has both h and g (voiceless). I am not sure if -ng should still be written нґ, when "Hong Kong" is written Гонконг. In fact, ґ doesn't appear in most country/region names esp. if they are fairly old names. But it is safe to say ґ should be the initial g in Cantonese.
+- х is a possible candidate for h in Cantonese, but Cantonese has no such sound, and I don't see the need of х.
 - Cantonese yu is a single vowel and practically Cantonese has more vowels than Ukrainian. Yu is also difficult to transliterate.
-- я, є, ї may be used for ja, je, ji, but ю is too different from Cantonese yu to be usable.
+- я, є, ї may be used for jaa, je, ji, but ю is too different from Cantonese yu.
 - However, if I consider everything together, basically you can have
 1. use ґ only in an initial letter g in jyutping
-2. use в only in initials (w/gw/kw) and у elsewhere (as vowel)
+2. use в only in initials (w/gw/kw) and у elsewhere as the same as w/u

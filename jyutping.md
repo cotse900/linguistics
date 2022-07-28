@@ -34,7 +34,7 @@ Tone numbers:
 - Nasals: there are m, n and ng. Ng (like ng in English *sing*) also starts a syllable and can be a syllable itself, so it may sound unusual.
 - Fricatives: just f, really.
 - Sibilants and affricates: we have s but no z (like English *z*). Letter z is like ц, and c is aspirated z, so it sounds close to ч.
-- Liquids: only l.
+- Liquids: only l. Contrary to popular beliefs, Cantonese is possibly a "major" East Asian language that really has no r-sound. Those who know the r-sound mostly know the English one.
 - j and w: j is like German j in *jeder* or English y in *year*. w is English w or u.
 
 ### Vowels
@@ -53,3 +53,7 @@ Tone numbers:
 - However, if I consider everything together, basically you can have
 1. use ґ only in an initial letter g in jyutping
 2. use в only in initials (w/gw/kw) and у elsewhere as the same as w/u
+
+## Summary
+- Basically most sounds are predictable/easy/found in other languages. It should have been an easy language if we only talk about speaking... or speaking without tones.
+- Words/tone-related minimal pairs/characters are out of the scope of discussion, but I can assure learners that homophones (same syllable, even same tone) are not so bad in Cantonese. As in many other languages, puns and naming culture often depend on sounds instead of characters.
